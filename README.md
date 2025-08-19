@@ -20,6 +20,10 @@ Whether you're a beginner starting your AI journey or an advanced engineer deplo
   - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
   - [Evaluation & Testing](#evaluation--testing)
   - [Monitoring & Observability](#monitoring--observability)
+  - [AI Agents](#ai-agents)
+  - [Generative AI](#generative-ai)
+  - [Deep Learning](#deep-learning)
+  - [Advanced LLM Architectures](#advanced-llm-architectures)
 - [Datasets](#datasets)
 - [Courses](#courses)
 - [Papers](#papers)
@@ -219,6 +223,69 @@ For production AI systems.
 | Tool          | Description                                                                 | URL                                               | Stars |
 |---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
 | Evidently AI | Monitoring for ML model performance                                        | https://github.com/evidentlyai/evidently         | 5k    |
+
+### AI Agents
+Frameworks for building autonomous AI agents.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| AutoGPT      | Autonomous AI agent for task automation using LLMs                         | https://github.com/Significant-Gravitas/AutoGPT  | 160k  |
+| BabyAGI      | Task-driven autonomous agent inspired by BabyAGI                           | https://github.com/yoheinakajima/babyagi         | 18k   |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| CrewAI       | Framework for orchestrating role-playing AI agents                         | https://github.com/joaomdmoura/crewAI            | 20k   |
+| MetaGPT      | Multi-agent framework simulating a software company                        | https://github.com/geekan/MetaGPT                | 40k   |
+| OpenHands    | AI agents for software development tasks                                   | https://github.com/All-Hands-AI/OpenHands        | 10k   |
+
+### Generative AI
+Tools for generating text, images, and other content.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| Ollama       | Run and manage local LLMs easily                                           | https://github.com/ollama/ollama                 | 70k   |
+| Stable Diffusion WebUI | User-friendly web interface for Stable Diffusion image generation          | https://github.com/AUTOMATIC1111/stable-diffusion-webui | 130k  |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| Diffusers    | State-of-the-art diffusion models for image and audio generation           | https://github.com/huggingface/diffusers         | 25k   |
+| llama.cpp    | Efficient LLM inference in C/C++                                           | https://github.com/ggerganov/llama.cpp           | 60k   |
+| InvokeAI     | Creative engine for Stable Diffusion models                                | https://github.com/invoke-ai/InvokeAI            | 22k   |
+
+### Deep Learning
+Libraries for advanced neural network development.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| fastai       | High-level deep learning library on PyTorch for quick results              | https://github.com/fastai/fastai                 | 26k   |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| JAX          | Composable transformations for high-performance ML                         | https://github.com/google/jax                    | 30k   |
+| tinygrad     | Minimalist deep learning framework                                         | https://github.com/tinygrad/tinygrad             | 25k   |
+| Deeplearning4j | JVM-based deep learning suite for enterprise                              | https://github.com/deeplearning4j/deeplearning4j | 13k   |
+
+### Advanced LLM Architectures
+Frameworks for optimizing and architecting large language models.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| PEFT         | Parameter-efficient fine-tuning for large models                           | https://github.com/huggingface/peft              | 15k   |
+| bitsandbytes | K-bit quantization for accessible LLMs                                     | https://github.com/TimDettmers/bitsandbytes      | 5k    |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| vLLM         | High-throughput LLM inference engine                                       | https://github.com/vllm-project/vllm             | 25k   |
+| Flash Attention | Fast and memory-efficient attention mechanism                              | https://github.com/Dao-AILab/flash-attention     | 12k   |
+| exllamav2    | Fast inference library for LLMs on consumer GPUs                           | https://github.com/turboderp/exllamav2           | 6k    |
 
 ## Datasets
 Top open datasets for AI exploration. Segregated by skill level.
