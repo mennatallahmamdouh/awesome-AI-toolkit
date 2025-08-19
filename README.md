@@ -2,7 +2,7 @@
 
 A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers. Organized by AI domains and segregated for beginners (foundational, easy-to-use tools/courses) and advanced users (complex, production-ready resources). This toolkit covers all areas of AI, from machine learning basics to specialized fields like computer vision, NLP, reinforcement learning, and MLOps. Updated with 2025 trends for building, learning, and experimenting efficiently.
 
-Whether you're a beginner starting your AI journey or an advanced engineer deploying scalable systems, this repo provides essential resources to accelerate your work. Contribute to keep it growing and viral—share on X, Reddit, and LinkedIn!
+Whether you're a beginner starting your AI journey or an advanced engineer deploying scalable systems, this repo provides essential resources to accelerate your work. Contribute to keep it growing.
 
 ## Table of Contents
 
