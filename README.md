@@ -4,6 +4,28 @@ A curated, comprehensive collection of open-source AI tools, frameworks, dataset
 
 Whether you're a beginner starting your AI journey or an advanced engineer deploying scalable systems, this repo provides essential resources to accelerate your work. Contribute to keep it growing and viral—share on X, Reddit, and LinkedIn!
 
+## Table of Contents
+
+- [Why This Toolkit?](#why-this-toolkit)
+- [AI Domains and Tools](#ai-domains-and-tools)
+  - [Machine Learning Frameworks](#machine-learning-frameworks)
+  - [Data Processing & Management](#data-processing--management)
+  - [Vector Databases](#vector-databases)
+  - [Orchestration & Workflow Frameworks](#orchestration--workflow-frameworks)
+  - [Computer Vision](#computer-vision)
+  - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+  - [Reinforcement Learning (RL)](#reinforcement-learning-rl)
+  - [MLOps](#mlops)
+  - [PDF Extraction Tools](#pdf-extraction-tools)
+  - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
+  - [Evaluation & Testing](#evaluation--testing)
+  - [Monitoring & Observability](#monitoring--observability)
+- [Datasets](#datasets)
+- [Courses](#courses)
+- [Papers](#papers)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+
 ## Why This Toolkit?
 - **Broad Coverage**: Spans all AI domains with detailed category separation.
 - **Open-Source Only**: Exclusively free, community-driven tools and resources.
