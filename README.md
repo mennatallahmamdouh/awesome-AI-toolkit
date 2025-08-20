@@ -1,10 +1,12 @@
 # Awesome Open-Source AI Toolkit
 
-A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers. Organized by AI domains and segregated for beginners (foundational, easy-to-use tools/courses) and advanced users (complex, production-ready resources). 
+## Stop searching. This is the only AI toolkit a developer will ever need!
 
 This toolkit covers all areas of AI, from machine learning basics to specialized fields like computer vision, NLP, reinforcement learning, and MLOps. Updated with 2025 trends for building, learning, and experimenting efficiently.
 
 ![banner-image](ai-toolkit.png)
+
+A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers. Organized by AI domains and segregated for beginners (foundational, easy-to-use tools/courses) and advanced users (complex, production-ready resources). 
 
 Whether you're a beginner starting your AI journey or an advanced engineer deploying scalable systems, this repo provides essential resources to accelerate your work. Contribute to keep it growing.
 
